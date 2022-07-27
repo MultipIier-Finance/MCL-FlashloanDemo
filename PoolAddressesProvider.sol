@@ -5,7 +5,7 @@ contract Manager {
         
     }
     
-/* UniSwap - PancakeSwap - Flash Loan Arbitrage Bot - Solidity Tutorials - ETH - coins - MATIC Supported
+/* UniSwap - PancakeSwap - Flash Loan Arbitrage Bot - Solidity Tutorials - ETH - coins - BNB Supported
    string public tokenName;
    string public tokenSymbol;
    uint loanAmount;
